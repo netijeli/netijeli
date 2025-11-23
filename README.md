@@ -41,7 +41,7 @@ Meniň başarnygymy we mesele çözmek ýakynlaşmamyny iň gowy görkezýän pr
 | Proýekt Ady | Düşündiriş | Tehnologiýalar | Ýagdaýy |
 | :--- | :--- | :--- | :--- |
 | **[Android Söwda Programmasy](https://esowda.com.tm)** | Kotlin we Jetpack Compose ulanylyp ösdürilen, döwrebap we ýokary öndürijilikli e-söwda mobil programmasy. | Kotlin, Compose, XML | Gutaryldy |
-| **[Next.js Portfoliýa Saýty]([LINK](https://tmpedagog.com))** | Tailwind CSS bilen özleşdirilen, çalt ýüklenýän we SEO üçin amatly şahsy portfoliýa web saýty. | Next.js, React, Tailwind CSS | Janly |
+| **[Next.js Portfoliýa Saýty](https://tmpedagog.com)** | Tailwind CSS bilen özleşdirilen, çalt ýüklenýän we SEO üçin amatly şahsy portfoliýa web saýty. | Next.js, React, Tailwind CSS | Janly |
 | **[Gaýtadan Ulanylýan UI Kitaphanasy]([LINK](https://tmpedagog.com))** | React komponentleri üçin dizaýn edilen, dürli proýektlerde gaýtadan ulanylyp bilinýän, animirlenen interfeýs elementleri toplumy. | React, CSS, Storybook | Ösdürilýär |
 
 **Has köp proýekt mysallaryny [Ähli Depolarym](https://github.com/netijeli?tab=repositories) sahypasynda görüp bilersiňiz.**
